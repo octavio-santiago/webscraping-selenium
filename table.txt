@@ -1,0 +1,43 @@
+  	Nome                      	  Clube	  Preço	  J	  Média	  Últ. Pont.	  Variação	  RB	  G	  A	  SG	  FS	  FF	  FD	  FT	  DD	  DP	  GC	  CV	  CA	  PP	  GS	  FC	  I	  PE
+ 0	Leandro Castan (ZAG)      	    nan	   1164	  6	    767	           0	       -30	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+ 1	Alexander (GOL)           	    nan	    979	  2	    600	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+ 2	Raul (MEI)                	    nan	    865	 13	    452	           0	       111	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+ 3	Fernando Miguel (GOL)     	    nan	    824	  8	    429	           0	       131	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+ 4	Ricardo (ZAG)             	    nan	    785	 10	    361	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+ 5	Henrique (LAT)            	    nan	    475	  8	    359	           0	        30	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+ 6	Vanderlei Luxemburgo (TEC)	    nan	    881	 12	    347	           0	        85	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+ 7	Danilo Barcelos (LAT)     	    nan	    651	  9	    332	           0	       151	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+ 8	Fellipe Bastos (MEI)      	    nan	    494	  6	    322	           0	        82	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+ 9	Oswaldo Henríquez (ZAG)   	    nan	    458	  9	    319	           0	       117	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+10	Yago Pikachu (MEI)        	    nan	    962	 16	    300	           0	       -57	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+11	Marrony (ATA)             	    nan	   1092	 14	    293	           0	       -49	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+12	Andrey (MEI)              	    nan	    547	 10	    283	           0	        15	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+13	Marcos Júnior (MEI)       	    nan	    372	  9	    261	           0	      -116	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+14	Claudio Winck (LAT)       	    nan	    401	  2	    215	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+15	Talles Magno (ATA)        	    nan	    319	  7	    203	           0	       177	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+16	Tiago Reis (ATA)          	    nan	    422	  7	    194	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+17	Richard (MEI)             	    nan	    477	 10	    180	           0	        85	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+18	Jairinho (ATA)            	    nan	    289	  4	    177	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+19	Valdívia (MEI)            	    nan	    385	 10	    154	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+20	Bruno César (MEI)         	    nan	    611	  9	    137	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+21	Lucas Mineiro (MEI)       	    nan	    512	 11	    136	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+22	Rossi (ATA)               	    nan	    400	 10	    118	           0	        38	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+23	Sidão (GOL)               	    nan	    374	  6	    103	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+24	Marquinho (MEI)           	    nan	    467	  5	     90	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+25	Ribamar (ATA)             	    nan	    264	  1	     80	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+26	Miranda (ZAG)             	    nan	    257	  1	     70	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+27	Raúl Cáceres (LAT)        	    nan	    218	  4	     50	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+28	Breno (ZAG)               	    nan	    600	  0	      0	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+29	Ramon (LAT)               	    nan	    500	  0	      0	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+30	Vinícius Araújo (ATA)     	    nan	    200	  0	      0	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+31	Riquelme (LAT)            	    nan	    100	  0	      0	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+32	Hugo Borges (ATA)         	    nan	    200	  0	      0	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+33	Ulisses (ZAG)             	    nan	    100	  0	      0	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+34	Rafael França (LAT)       	    nan	    200	  0	      0	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+35	João Pedro (ATA)          	    nan	    100	  0	      0	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+36	João Pedro Borges (GOL)   	    nan	    100	  0	      0	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+37	Moresche (ATA)            	    nan	    200	  0	      0	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+38	Dudu (MEI)                	    nan	    300	  0	      0	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+39	Rodrigo Fernandes (MEI)   	    nan	    200	  0	      0	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+40	Werley (ZAG)              	    nan	     75	  5	   -108	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
+41	Lucas Santos (MEI)        	    nan	    356	  1	   -160	           0	         0	 nan	nan	nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	 nan	nan	 nan
